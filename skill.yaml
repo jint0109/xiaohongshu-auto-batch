@@ -1,0 +1,5 @@
+name: xiaohongshu-auto-batch
+title: Fully Automatic Xiaohongshu Batch Content, Publishing and Reply Monitoring
+description: Batch generate Xiaohongshu notes for any account and niche, publish them automatically through the creator center, and patrol comments and reply in real time. Works as a portable skill folder that can run on another machine with Chinese network access.
+category: Media
+include_in_prompt: true
